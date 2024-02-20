@@ -1,0 +1,9 @@
+0.227f, 0.890f, 0.419f - patrat
+0.796f, 0.007f, 0.011f - dreptunghi background + patratele sus
+0.925f, 0.329f, 0.023f - romb portocaliu
+0.047f, 0.380f, 0.956f - romb albastru
+0.964f, 0.866f, 0.031f - romb galben
+0.611f, 0, 0.952f - romb mov
+0.231f, 0.705f, 0.635f - centru inamic
+0.6f, 0.6f, 0.6f - stelute punctaj + contur patrat
+0.921f, 0, 0.933f - steluta roz
